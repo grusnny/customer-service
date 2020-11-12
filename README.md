@@ -3,8 +3,5 @@
 # customer-service
  API- Node js + Express
 
-# Post
-# Get
-# Put
-# Post
-# Post
+# Las pruebas a las peticiones se encuentran en el archivo Imagenes.ipynb
+
